@@ -2396,8 +2396,8 @@ mjx-container{
         max-width:none
     }
     #avatar>a{
-        width:5rem;
-        height:5rem
+        width:10rem;
+        height:10rem
     }
     .site-subtitle{
         margin-left:1.8rem;
@@ -2635,8 +2635,8 @@ mjx-container{
         margin-left:4.5rem
     }
     #sidebar .profile-wrapper #avatar>a{
-        width:6.2rem;
-        height:6.2rem
+        width:10rem;
+        height:10rem
     }
     #sidebar .profile-wrapper #avatar>a.mx-auto{
         margin-left:0 !important
