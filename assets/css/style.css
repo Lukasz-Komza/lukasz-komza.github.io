@@ -2635,8 +2635,8 @@ mjx-container{
         margin-left:4.5rem
     }
     #sidebar .profile-wrapper #avatar>a{
-        width:15rem;
-        height:15rem
+        width:12rem;
+        height:12rem /*this is the right one!!*/
     }
     #sidebar .profile-wrapper #avatar>a.mx-auto{
         margin-left:0 !important
